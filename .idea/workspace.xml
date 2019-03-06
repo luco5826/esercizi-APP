@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44072ac6-1f03-4943-8026-c7b22823f64c" name="Default Changelist" comment="" />
+    <list default="true" id="44072ac6-1f03-4943-8026-c7b22823f64c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,16 +31,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/esercizi5/Esercizi5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
+            <state relative-caret-position="772">
               <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
               <folding>
                 <element signature="e#1114#1115#0" expanded="true" />
                 <element signature="e#1162#1163#0" expanded="true" />
                 <element signature="e#1202#1203#0" expanded="true" />
                 <element signature="e#1236#1237#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/esercizi6/Esercizi6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,6 +89,9 @@
       <find>equals</find>
       <find>add</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -120,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/esercizi3/Esercizi3.java" />
         <option value="$PROJECT_DIR$/src/esercizi5/Persona.java" />
         <option value="$PROJECT_DIR$/src/esercizi5/Esercizi5.java" />
+        <option value="$PROJECT_DIR$/src/esercizi6/Esercizi6.java" />
       </list>
     </option>
   </component>
@@ -129,52 +147,43 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="31" />
-    <option name="width" value="949" />
-    <option name="height" value="1046" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="y" value="25" />
+    <option name="width" value="1280" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PrimaProvaIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PrimaProvaIntellij" type="462c0819:PsiDirectoryNode" />
+              <item name="EserciziApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esercizi-APP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PrimaProvaIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PrimaProvaIntellij" type="462c0819:PsiDirectoryNode" />
+              <item name="EserciziApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esercizi-APP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PrimaProvaIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PrimaProvaIntellij" type="462c0819:PsiDirectoryNode" />
+              <item name="EserciziApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="esercizi-APP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="esercizi2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PrimaProvaIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PrimaProvaIntellij" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="esercizi3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PrimaProvaIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PrimaProvaIntellij" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="esercizi5" type="462c0819:PsiDirectoryNode" />
+              <item name="esercizi6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Esercizi3">
+  <component name="RunManager" selected="Application.Esercizi6">
     <configuration name="Esercizi2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -223,6 +232,15 @@
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="esercizi3.Esercizi3" />
+      <module name="PrimaProvaIntellij" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Esercizi6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Programmi/java/jdk-11.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="esercizi6.Esercizi6" />
       <module name="PrimaProvaIntellij" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -249,14 +267,26 @@
       <item itemvalue="Application.Esercizi2" />
       <item itemvalue="Application.Esercizi3" />
       <item itemvalue="Application.Program" />
+      <item itemvalue="Application.Esercizi6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Esercizi6" />
         <item itemvalue="Application.Esercizi3" />
         <item itemvalue="Application.Esercizi2" />
         <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44072ac6-1f03-4943-8026-c7b22823f64c" name="Default Changelist" comment="" />
+      <created>1551860395303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551860395303</updated>
+    </task>
+    <servers />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -268,23 +298,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1047" extended-state="6" />
+    <frame x="0" y="25" width="1280" height="1055" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49946064" visible="true" weight="0.08466454" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49946064" visible="true" weight="0.17341977" />
       <window_info id="Structure" order="1" sideWeight="0.50053936" side_tool="true" weight="0.13525027" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32901832" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49676898" weight="0.40564373" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49676898" visible="true" weight="0.40471092" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32901832" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49946752" visible="true" weight="0.32901832" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946752" weight="0.32799146" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.503231" side_tool="true" weight="0.40388006" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32804233" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32804233" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24980143" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -424,17 +455,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Programmi/java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="170" column="5" selection-start-line="170" selection-start-column="5" selection-end-line="170" selection-end-column="5" />
-          <folding>
-            <element signature="e#6446#6447#0" expanded="true" />
-            <element signature="e#6527#6528#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/Programmi/java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Math.java" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -454,33 +475,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Programmi/java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="1009" column="41" selection-start-line="1009" selection-start-column="41" selection-end-line="1009" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Programmi/java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="235" column="21" selection-start-line="235" selection-start-column="21" selection-end-line="235" selection-end-column="21" />
-          <folding>
-            <element signature="e#6336#6337#0" expanded="true" />
-            <element signature="e#6404#6405#0" expanded="true" />
-            <element signature="e#9109#9110#0" expanded="true" />
-            <element signature="e#9146#9147#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Programmi/java/jdk-11.0.1/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-186">
-          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/Programmi/java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java" />
+    <entry file="jar://$USER_HOME$/Programmi/java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java" />
+    <entry file="jar://$USER_HOME$/Programmi/java/jdk-11.0.1/lib/src.zip!/java.base/java/util/List.java" />
     <entry file="file://$PROJECT_DIR$/src/prove/Dimostrazioni.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -571,13 +568,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/esercizi5/Esercizi5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="772">
           <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
           <folding>
             <element signature="e#1114#1115#0" expanded="true" />
             <element signature="e#1162#1163#0" expanded="true" />
             <element signature="e#1202#1203#0" expanded="true" />
             <element signature="e#1236#1237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/esercizi6/Esercizi6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
